@@ -5,6 +5,6 @@
 Da'Shaun Horne
 
 ## My github username is:
-dashaum-h
+dashaun-h
 ## I have installed the software on my computer as a part of the exercise
 yes
